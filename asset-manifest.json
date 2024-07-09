@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WaetherForecast-App/static/css/main.a642e728.css",
+    "main.js": "/WaetherForecast-App/static/js/main.410c12eb.js",
+    "static/js/453.15c8c274.chunk.js": "/WaetherForecast-App/static/js/453.15c8c274.chunk.js",
+    "index.html": "/WaetherForecast-App/index.html",
+    "main.a642e728.css.map": "/WaetherForecast-App/static/css/main.a642e728.css.map",
+    "main.410c12eb.js.map": "/WaetherForecast-App/static/js/main.410c12eb.js.map",
+    "453.15c8c274.chunk.js.map": "/WaetherForecast-App/static/js/453.15c8c274.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a642e728.css",
+    "static/js/main.410c12eb.js"
+  ]
+}
